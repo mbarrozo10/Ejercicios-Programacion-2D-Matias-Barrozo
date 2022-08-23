@@ -1,0 +1,16 @@
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\bin\Debug\net5.0\ejercicio1.exe
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\bin\Debug\net5.0\ejercicio1.deps.json
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\bin\Debug\net5.0\ejercicio1.runtimeconfig.json
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\bin\Debug\net5.0\ejercicio1.runtimeconfig.dev.json
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\bin\Debug\net5.0\ejercicio1.dll
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\bin\Debug\net5.0\ejercicio1.pdb
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicio1.csproj.AssemblyReference.cache
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicio1.AssemblyInfo.cs
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicio1.dll
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\obj\Debug\net5.0\refint\ejercicio1.dll
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicio1.pdb
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicio1.genruntimeconfig.cache
+C:\Users\mbarrozo\Desktop\codigo c#\ejercicios\ejercicio1\obj\Debug\net5.0\ref\ejercicio1.dll
