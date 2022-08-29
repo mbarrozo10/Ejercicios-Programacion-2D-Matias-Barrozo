@@ -1,0 +1,16 @@
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\bin\Debug\net5.0\Ejercicio 2-07.exe
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\bin\Debug\net5.0\Ejercicio 2-07.deps.json
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\bin\Debug\net5.0\Ejercicio 2-07.runtimeconfig.json
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\bin\Debug\net5.0\Ejercicio 2-07.runtimeconfig.dev.json
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\bin\Debug\net5.0\Ejercicio 2-07.dll
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\bin\Debug\net5.0\Ejercicio 2-07.pdb
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\obj\Debug\net5.0\Ejercicio 2-07.csproj.AssemblyReference.cache
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\obj\Debug\net5.0\Ejercicio 2-07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\obj\Debug\net5.0\Ejercicio 2-07.AssemblyInfoInputs.cache
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\obj\Debug\net5.0\Ejercicio 2-07.AssemblyInfo.cs
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\obj\Debug\net5.0\Ejercicio 2-07.csproj.CoreCompileInputs.cache
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\obj\Debug\net5.0\Ejercicio 2-07.dll
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\obj\Debug\net5.0\refint\Ejercicio 2-07.dll
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\obj\Debug\net5.0\Ejercicio 2-07.pdb
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\obj\Debug\net5.0\Ejercicio 2-07.genruntimeconfig.cache
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 2-07\obj\Debug\net5.0\ref\Ejercicio 2-07.dll
