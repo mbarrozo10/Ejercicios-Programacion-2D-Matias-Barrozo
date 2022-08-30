@@ -23,7 +23,6 @@ namespace Ejercicio_2_03
             }
             for (int i = retorno.Length - 1; i >= 0; i--)
             {
-
                 stringInvertido.Append(retorno[i]);
             }
             return stringInvertido.ToString();

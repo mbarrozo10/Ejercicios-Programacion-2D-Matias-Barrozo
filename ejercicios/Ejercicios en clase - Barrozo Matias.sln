@@ -3,35 +3,39 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio1", "ejercicio1\ejercicio1.csproj", "{6BAE68CC-2CA0-4DB2-9D18-8D65BC01DC08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 1-01", "ejercicio1\Ejercicio 1-01.csproj", "{6BAE68CC-2CA0-4DB2-9D18-8D65BC01DC08}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "clase 01", "clase 01", "{85758029-9E55-42FF-BFFC-C4FA924238A4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 2", "Ejercicio 2\Ejercicio 2.csproj", "{D4EA725B-3BB3-42FF-88D8-3EB2908FA6F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 1-02", "Ejercicio 2\Ejercicio 1-02.csproj", "{D4EA725B-3BB3-42FF-88D8-3EB2908FA6F5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 3", "Ejercicio 3\Ejercicio 3.csproj", "{30850F43-132B-40FC-96E9-6643DBEDB058}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 1-03", "Ejercicio 3\Ejercicio 1-03.csproj", "{30850F43-132B-40FC-96E9-6643DBEDB058}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 4", "Ejercicio 4\Ejercicio 4.csproj", "{2533F70F-FA63-44EF-98F9-8CDE7E179C4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 1-04", "Ejercicio 4\Ejercicio 1-04.csproj", "{2533F70F-FA63-44EF-98F9-8CDE7E179C4B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 5", "Ejercicio 5\Ejercicio 5.csproj", "{5CB54626-DB86-4410-9F08-ADED38DF047C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 1-05", "Ejercicio 5\Ejercicio 1-05.csproj", "{5CB54626-DB86-4410-9F08-ADED38DF047C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 02", "Clase 02", "{D1E3DE68-5E4A-45E0-AF36-8D83EB9389BE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio en clase", "Ejercicio en clase\Ejercicio en clase.csproj", "{D302B114-EB07-4C4F-A573-D71C0371E915}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 01", "Ejercicio 01\Ejercicio 01.csproj", "{1E7DBAED-0A73-4BC5-AA9C-164A275B7EC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 2-01", "Ejercicio 01\Ejercicio 2-01.csproj", "{1E7DBAED-0A73-4BC5-AA9C-164A275B7EC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2-02", "Ejercicio 2-02\Ejercicio 2-02.csproj", "{693F9107-9456-4A38-91DD-236E7C846ABD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 2-02", "Ejercicio 2-02\Ejercicio 2-02.csproj", "{693F9107-9456-4A38-91DD-236E7C846ABD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2-03", "Ejercicio 2-03\Ejercicio 2-03.csproj", "{167C660D-2507-4A8D-8EB8-E2E103431C17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 2-03", "Ejercicio 2-03\Ejercicio 2-03.csproj", "{167C660D-2507-4A8D-8EB8-E2E103431C17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2-04", "Ejercicio 2-04\Ejercicio 2-04.csproj", "{E1EE34F4-B85A-4B41-87E7-FC439CE84FB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 2-04", "Ejercicio 2-04\Ejercicio 2-04.csproj", "{E1EE34F4-B85A-4B41-87E7-FC439CE84FB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2-05", "Ejercicio 2-05\Ejercicio 2-05.csproj", "{E702AFCD-92FF-4FE2-A0C5-87A10D6BA9F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 2-05", "Ejercicio 2-05\Ejercicio 2-05.csproj", "{E702AFCD-92FF-4FE2-A0C5-87A10D6BA9F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2-06", "Ejercicio 2-06\Ejercicio 2-06.csproj", "{BD5F4F84-CC3D-497E-8879-1BD6739B277A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 2-06", "Ejercicio 2-06\Ejercicio 2-06.csproj", "{BD5F4F84-CC3D-497E-8879-1BD6739B277A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2-07", "Ejercicio 2-07\Ejercicio 2-07.csproj", "{47F14EDE-ACB1-4FEF-B12B-FD8BB970351C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 2-07", "Ejercicio 2-07\Ejercicio 2-07.csproj", "{47F14EDE-ACB1-4FEF-B12B-FD8BB970351C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{FBF9EE25-2D29-4204-86A9-3DE2C5874E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2-A01", "Ejercicio 2-A01\Ejercicio 2-A01.csproj", "{964A866B-8171-4E4C-8501-98F144B81FCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +95,14 @@ Global
 		{47F14EDE-ACB1-4FEF-B12B-FD8BB970351C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47F14EDE-ACB1-4FEF-B12B-FD8BB970351C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47F14EDE-ACB1-4FEF-B12B-FD8BB970351C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF9EE25-2D29-4204-86A9-3DE2C5874E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF9EE25-2D29-4204-86A9-3DE2C5874E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF9EE25-2D29-4204-86A9-3DE2C5874E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF9EE25-2D29-4204-86A9-3DE2C5874E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964A866B-8171-4E4C-8501-98F144B81FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964A866B-8171-4E4C-8501-98F144B81FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964A866B-8171-4E4C-8501-98F144B81FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964A866B-8171-4E4C-8501-98F144B81FCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -109,6 +121,8 @@ Global
 		{E702AFCD-92FF-4FE2-A0C5-87A10D6BA9F1} = {D1E3DE68-5E4A-45E0-AF36-8D83EB9389BE}
 		{BD5F4F84-CC3D-497E-8879-1BD6739B277A} = {D1E3DE68-5E4A-45E0-AF36-8D83EB9389BE}
 		{47F14EDE-ACB1-4FEF-B12B-FD8BB970351C} = {D1E3DE68-5E4A-45E0-AF36-8D83EB9389BE}
+		{FBF9EE25-2D29-4204-86A9-3DE2C5874E9E} = {D1E3DE68-5E4A-45E0-AF36-8D83EB9389BE}
+		{964A866B-8171-4E4C-8501-98F144B81FCA} = {D1E3DE68-5E4A-45E0-AF36-8D83EB9389BE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDF70AAA-0F66-48B6-A907-AD28DA6C6281}
