@@ -35,7 +35,7 @@ namespace Ejercicio_2_03
             int i =numeroEntero;
             for (int j=0; i>0 ; i /= 10 ,j++)
             {
-                auxiliar = (int)i % 10;
+                auxiliar = i % 10;
                 if (auxiliar != 0 && auxiliar != 1)
                 {
                     return -1;

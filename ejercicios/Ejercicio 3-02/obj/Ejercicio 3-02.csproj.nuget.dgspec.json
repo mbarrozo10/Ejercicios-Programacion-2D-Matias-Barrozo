@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 3-02\\Ejercicio 3-02.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Biblioteca\\Biblioteca.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Biblioteca\\Biblioteca.csproj",
+        "projectName": "Biblioteca",
+        "projectPath": "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Biblioteca\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Biblioteca\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 3-02\\Ejercicio 3-02.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 3-02\\Ejercicio 3-02.csproj",
+        "projectName": "Ejercicio 3-02",
+        "projectPath": "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 3-02\\Ejercicio 3-02.csproj",
+        "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 3-02\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Biblioteca\\Biblioteca.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
