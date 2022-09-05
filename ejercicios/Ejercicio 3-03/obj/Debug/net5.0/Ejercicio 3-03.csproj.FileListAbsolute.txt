@@ -1,0 +1,19 @@
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\bin\Debug\net5.0\Ejercicio 3-03.exe
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\bin\Debug\net5.0\Ejercicio 3-03.deps.json
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\bin\Debug\net5.0\Ejercicio 3-03.runtimeconfig.json
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\bin\Debug\net5.0\Ejercicio 3-03.runtimeconfig.dev.json
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\bin\Debug\net5.0\Ejercicio 3-03.dll
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\bin\Debug\net5.0\Ejercicio 3-03.pdb
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\obj\Debug\net5.0\Ejercicio 3-03.csproj.AssemblyReference.cache
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\obj\Debug\net5.0\Ejercicio 3-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\obj\Debug\net5.0\Ejercicio 3-03.AssemblyInfoInputs.cache
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\obj\Debug\net5.0\Ejercicio 3-03.AssemblyInfo.cs
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\obj\Debug\net5.0\Ejercicio 3-03.csproj.CoreCompileInputs.cache
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\obj\Debug\net5.0\Ejercicio 3-03.csproj.CopyComplete
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\obj\Debug\net5.0\Ejercicio 3-03.dll
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\obj\Debug\net5.0\refint\Ejercicio 3-03.dll
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\obj\Debug\net5.0\Ejercicio 3-03.pdb
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\obj\Debug\net5.0\Ejercicio 3-03.genruntimeconfig.cache
+C:\Users\mbarrozo\Desktop\Git\Ejercicios-Programacion-2D-Matias-Barrozo\ejercicios\Ejercicio 3-03\obj\Debug\net5.0\ref\Ejercicio 3-03.dll

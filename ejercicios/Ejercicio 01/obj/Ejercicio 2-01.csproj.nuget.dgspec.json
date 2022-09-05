@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 01\\Ejercicio 2-01.csproj": {}
+    "C:\\Users\\mbarrozo\\Desktop\\Git\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 01\\Ejercicio 2-01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 01\\Ejercicio 2-01.csproj": {
+    "C:\\Users\\mbarrozo\\Desktop\\Git\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 01\\Ejercicio 2-01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 01\\Ejercicio 2-01.csproj",
+        "projectUniqueName": "C:\\Users\\mbarrozo\\Desktop\\Git\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 01\\Ejercicio 2-01.csproj",
         "projectName": "Ejercicio 2-01",
-        "projectPath": "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 01\\Ejercicio 2-01.csproj",
-        "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mati\\Desktop\\Escritorio\\facultad owo\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 01\\obj\\",
+        "projectPath": "C:\\Users\\mbarrozo\\Desktop\\Git\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 01\\Ejercicio 2-01.csproj",
+        "packagesPath": "C:\\Users\\mbarrozo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbarrozo\\Desktop\\Git\\Ejercicios-Programacion-2D-Matias-Barrozo\\ejercicios\\Ejercicio 01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mbarrozo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net5.0": {

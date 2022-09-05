@@ -210,7 +210,7 @@ namespace Biblioteca
 
             for (int i = 0; i < cadena.Length; i++)
             {
-                if (!char.IsLetter(cadena[i]) || !char.IsDigit(cadena[i]))
+                if (!char.IsLetter(cadena[i]) && !char.IsDigit(cadena[i]))
                 {
                     validacionLetra = false;
                     break;
